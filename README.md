@@ -1,4 +1,4 @@
- Nebula-inspired PufferPanel theme
+ # Nebula-inspired PufferPanel theme
 
 This folder contains a simple PufferPanel theme package that uses a dark, glowing "Nebula" look.
 
